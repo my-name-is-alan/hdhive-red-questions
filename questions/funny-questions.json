@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question_text": "老王从8楼跳了下去，却安然无恙，为什么？",
+      "question_type": "single_choice",
+      "options": ["A. 他落在了气垫上", "B. 他是从8楼的窗户跳到了7楼", "C. 他会轻功", "D. 楼下有游泳池"],
+      "answer": "B"
+    },
+    {
+      "question_text": "三个小朋友各吃一个包子用了3分钟，那么90个小朋友各吃一个包子需要几分钟？",
+      "question_type": "single_choice",
+      "options": ["A. 90分钟", "B. 30分钟", "C. 3分钟", "D. 1分钟"],
+      "answer": "C"
+    },
+    {
+      "question_text": "什么东西你明明没有，却总是跟别人说要还？",
+      "question_type": "single_choice",
+      "options": ["A. 债", "B. 人情", "C. 瞌睡", "D. 一个公道"],
+      "answer": "C"
+    },
+    {
+      "question_text": "两个人同时掉进河里，一个人死了叫死人，另一个人叫什么？",
+      "question_type": "single_choice",
+      "options": ["A. 活人", "B. 救人", "C. 就叫那个人", "D. 叫救命"],
+      "answer": "D"
+    },
+    {
+      "question_text": "什么官不能发号施令，还得看别人脸色？",
+      "question_type": "single_choice",
+      "options": ["A. 门卫", "B. 新郎官", "C. 法官", "D. 厨师"],
+      "answer": "B"
+    }
+  ]
+}
