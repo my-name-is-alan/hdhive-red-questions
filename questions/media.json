@@ -1,0 +1,305 @@
+{
+  "source": "community-media",
+  "questions": [
+    {
+      "question_text": "电影《泰坦尼克号》中，男主角杰克最后是否存活？",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "《海贼王》中路飞的恶魔果实是什么类型？",
+      "question_type": "single_choice",
+      "options": ["自然系", "超人系", "动物系", "幻兽种"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "宫崎骏执导的电影《千与千寻》中，千寻的父母因为贪吃变成了猪。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "漫威电影中，钢铁侠的盔甲叫什么？",
+      "question_type": "single_choice",
+      "options": ["浩克破坏者", "马克系列", "反浩克装甲", "战争机器"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "电影《霸王别姬》的导演是陈凯歌。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《火影忍者》中漩涡鸣人的招牌忍术是什么？",
+      "question_type": "single_choice",
+      "options": ["千鸟", "螺旋丸", "写轮眼", "月读"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "动画电影《寻梦环游记》的故事背景是墨西哥的亡灵节。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《星球大战》中卢克·天行者的父亲是谁？",
+      "question_type": "single_choice",
+      "options": ["欧比旺", "达斯·维达", "尤达", "帕尔帕廷"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "电影《肖申克的救赎》中，男主角安迪越狱用了多少年？",
+      "question_type": "single_choice",
+      "options": ["17年", "19年", "20年", "22年"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "《龙珠》中孙悟空所属的种族是赛亚人。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "DC 漫画中蝙蝠侠的真实姓名是什么？",
+      "question_type": "single_choice",
+      "options": ["布鲁斯·韦恩", "克拉克·肯特", "彼得·帕克", "托尼·斯塔克"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "电影《阿甘正传》中，阿甘跑遍美国用了超过 3 年。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《鬼灭之刃》中主角灶门炭治郎使用的呼吸法是什么？",
+      "question_type": "single_choice",
+      "options": ["水之呼吸", "炎之呼吸", "雷之呼吸", "风之呼吸"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "诺兰导演的《盗梦空间》中，柯布的图腾是一个陀螺。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《哈利·波特》系列中，伏地魔有几个魂器？",
+      "question_type": "single_choice",
+      "options": ["5个", "6个", "7个", "8个"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "电影《大话西游》中至尊宝的经典台词是「曾经有一份真诚的爱情放在我面前」。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "以下哪个不是宫崎骏吉卜力工作室的作品？",
+      "question_type": "single_choice",
+      "options": ["龙猫", "天空之城", "你的名字", "幽灵公主"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "《进击的巨人》中，艾伦的巨人形态是进击的巨人。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《指环王》三部曲中，魔戒最后被丢进了哪个火山？",
+      "question_type": "single_choice",
+      "options": ["末日火山", "维苏威火山", "富士山", "埃特纳火山"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "《功夫熊猫》中主角阿宝的师父是一只浣熊。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《名侦探柯南》中，柯南的真实身份是？",
+      "question_type": "single_choice",
+      "options": ["毛利小五郎", "工藤新一", "服部平次", "怪盗基德"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "《复仇者联盟 4：终局之战》中，钢铁侠最后打了响指牺牲了自己。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《银魂》的主角坂田银时的职业是什么？",
+      "question_type": "single_choice",
+      "options": ["武士", "忍者", "警察", "万事屋老板"],
+      "answer": "D",
+      "is_active": true
+    },
+    {
+      "question_text": "电影《教父》中，维托·柯里昂被暗杀时正在买橙子。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《一拳超人》的主角埼玉老师最显著的标志是什么？",
+      "question_type": "single_choice",
+      "options": ["披风", "光头", "手套", "面具"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "《死亡笔记》中，夜神月捡到的死亡笔记属于死神琉克。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "迪士尼动画《冰雪奇缘》中，艾莎的魔法能力是什么？",
+      "question_type": "single_choice",
+      "options": ["控制火", "控制水", "控制冰雪", "控制风"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "电影《楚门的世界》中，楚门生活在一个巨大的摄影棚里。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《新世纪福音战士》中，真嗣驾驶的初号机颜色是？",
+      "question_type": "single_choice",
+      "options": ["红色", "蓝色", "紫色", "白色"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "《灌篮高手》中樱木花道的背号是 10 号。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《黑客帝国》三部曲中，尼奥选择的药丸颜色是？",
+      "question_type": "single_choice",
+      "options": ["蓝色", "红色", "绿色", "白色"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "《咒术回战》中虎杖悠仁吞下了两面宿傩的手指。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《星际穿越》中，主角库珀最终进入了什么？",
+      "question_type": "single_choice",
+      "options": ["虫洞", "黑洞", "白洞", "奇点"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "《猫和老鼠》中汤姆是一只蓝色的猫。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "《变形金刚》中汽车人的首领是谁？",
+      "question_type": "single_choice",
+      "options": ["大黄蜂", "擎天柱", "威震天", "红蜘蛛"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "《E.T. 外星人》的导演是史蒂文·斯皮尔伯格。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《JOJO 的奇妙冒险》中，替身「白金之星」的拥有者是谁？",
+      "question_type": "single_choice",
+      "options": ["空条承太郎", "DIO", "乔瑟夫·乔斯达", "东方仗助"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "《让子弹飞》中张麻子说过「枪在手跟我走」。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "《蜘蛛侠》的经典台词「能力越大，责任越大」出自谁的嘴？",
+      "question_type": "single_choice",
+      "options": ["彼得·帕克", "玛丽·简", "本叔", "章鱼博士"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "《疯狂动物城》中狐狸尼克的梦想是成为一名警察。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "《蜡笔小新》中小新的妈妈叫什么？",
+      "question_type": "single_choice",
+      "options": ["野原美伢", "野原向日葵", "风间绿", "樱田妮妮"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "《咒怨》是一部日本恐怖片系列。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《三体》小说中，三体人使用什么与地球通信？",
+      "question_type": "single_choice",
+      "options": ["无线电", "引力波", "智子", "量子纠缠"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "电影《活着》改编自余华的同名小说。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《宝可梦》中小智的第一只宝可梦是什么？",
+      "question_type": "single_choice",
+      "options": ["妙蛙种子", "小火龙", "杰尼龟", "皮卡丘"],
+      "answer": "D",
+      "is_active": true
+    },
+    {
+      "question_text": "《无间道》中梁朝伟饰演的角色叫陈永仁。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《钢之炼金术师》中爱德华的机械铠装在哪里？",
+      "question_type": "single_choice",
+      "options": ["左臂和左腿", "右臂和左腿", "左臂和右腿", "右臂和右腿"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "《甄嬛传》中甄嬛最终当上了太后。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「打破第四面墙」是指角色直接与观众对话。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《哆啦 A 梦》中，大雄最怕什么动物？",
+      "question_type": "single_choice",
+      "options": ["狗", "猫", "老鼠", "蛇"],
+      "answer": "C",
+      "is_active": true
+    }
+  ]
+}
