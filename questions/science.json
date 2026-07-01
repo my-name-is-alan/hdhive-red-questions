@@ -1,0 +1,305 @@
+{
+  "source": "community-science",
+  "questions": [
+    {
+      "question_text": "光在真空中的传播速度约为多少？",
+      "question_type": "single_choice",
+      "options": ["3×10⁸ m/s", "3×10⁶ m/s", "3×10⁵ m/s", "3×10⁴ m/s"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "人体中含量最多的元素是氧。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "地球的卫星是什么？",
+      "question_type": "single_choice",
+      "options": ["太阳", "火星", "月球", "金星"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "水在标准大气压下的沸点是 100°C。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "DNA 的双螺旋结构是由谁发现的？",
+      "question_type": "single_choice",
+      "options": ["达尔文", "沃森和克里克", "孟德尔", "巴斯德"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "世界上最深的海洋是太平洋。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "下列哪种气体是造成温室效应的主要气体？",
+      "question_type": "single_choice",
+      "options": ["氧气", "氮气", "二氧化碳", "氢气"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "人体最大的器官是皮肤。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "声音在哪种介质中传播最快？",
+      "question_type": "single_choice",
+      "options": ["空气", "水", "固体", "真空"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "太阳系中距离太阳最近的行星是水星。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "人体有多少对染色体？",
+      "question_type": "single_choice",
+      "options": ["22对", "23对", "24对", "46对"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "蝙蝠属于哺乳动物。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "闪电发生时，我们看到的闪光先于听到雷声，这是因为什么？",
+      "question_type": "single_choice",
+      "options": ["光速比声速快", "声速比光速快", "眼睛比耳朵灵敏", "雷声更远"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "植物进行光合作用需要二氧化碳和水。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "原子核由哪两种粒子构成？",
+      "question_type": "single_choice",
+      "options": ["质子和电子", "质子和中子", "中子和电子", "夸克和电子"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "地球绕太阳公转一周约需 365 天。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "以下哪种维生素被称为「抗坏血酸」？",
+      "question_type": "single_choice",
+      "options": ["维生素A", "维生素B", "维生素C", "维生素D"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "恐龙灭绝于白垩纪末期。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "世界上面积最大的国家是？",
+      "question_type": "single_choice",
+      "options": ["中国", "美国", "俄罗斯", "加拿大"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "血液呈红色是因为血红蛋白中含有铁元素。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "光年是哪种物理量的单位？",
+      "question_type": "single_choice",
+      "options": ["时间", "速度", "距离", "亮度"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "地球的内部结构从外到内依次是地壳、地幔、地核。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "人体血液中红细胞的平均寿命约为多少天？",
+      "question_type": "single_choice",
+      "options": ["30天", "60天", "120天", "180天"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "鲸鱼属于鱼类。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "下列哪种元素是构成蛋白质的基本元素？",
+      "question_type": "single_choice",
+      "options": ["碳、氢、氧", "碳、氢、氧、氮", "碳、氢、氧、硫", "碳、氧、氮、磷"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "月球上几乎没有大气层。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "人体内含量最多的物质是什么？",
+      "question_type": "single_choice",
+      "options": ["蛋白质", "脂肪", "水", "无机盐"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "地壳中含量最高的金属元素是铝。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "以下哪种动物不是哺乳动物？",
+      "question_type": "single_choice",
+      "options": ["海豚", "企鹅", "蝙蝠", "鲸"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "地球的自转方向是自西向东。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "pH 值等于 7 的溶液呈什么性？",
+      "question_type": "single_choice",
+      "options": ["酸性", "碱性", "中性", "不确定"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "水星是太阳系中温度最高的行星。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "人体最硬的物质是什么？",
+      "question_type": "single_choice",
+      "options": ["骨骼", "指甲", "牙釉质", "头发"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "鸟类是从恐龙进化而来的。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "一个标准大气压等于多少帕斯卡（Pa）？",
+      "question_type": "single_choice",
+      "options": ["1.01×10³", "1.01×10⁴", "1.01×10⁵", "1.01×10⁶"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "人类的血型系统中最重要的是 ABO 血型系统。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "酸雨的 pH 值通常低于多少？",
+      "question_type": "single_choice",
+      "options": ["7.0", "6.5", "5.6", "4.0"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "地球的赤道周长约为 4 万公里。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "下列哪种现象属于物理变化？",
+      "question_type": "single_choice",
+      "options": ["铁生锈", "木柴燃烧", "冰融化成水", "食物腐烂"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "太阳是一颗恒星。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "人体骨骼共有多少块（成年人）？",
+      "question_type": "single_choice",
+      "options": ["106块", "206块", "306块", "406块"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "海马是由雄海马负责孵化后代的。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "牛顿第一定律也被称为什么定律？",
+      "question_type": "single_choice",
+      "options": ["惯性定律", "万有引力定律", "能量守恒定律", "作用与反作用定律"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "人体唯一的游离感光器官是眼睛。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "世界上最小的国家是？",
+      "question_type": "single_choice",
+      "options": ["摩纳哥", "梵蒂冈", "圣马力诺", "列支敦士登"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "雪的反射率比泥土高，所以雪地更亮。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "人体细胞中哪种细胞负责运输氧气？",
+      "question_type": "single_choice",
+      "options": ["白细胞", "血小板", "红细胞", "神经细胞"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "地磁场的北极在地理南极附近。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "一光年大约是 9.46 万亿公里。",
+      "question_type": "single_choice",
+      "options": ["9.46亿公里", "9.46万亿公里", "9.46万亿千米", "9.46亿英里"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "维生素 D 可以通过晒太阳在人体内合成。",
+      "question_type": "true_false",
+      "answer": "对"
+    }
+  ]
+}
