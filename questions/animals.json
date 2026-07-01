@@ -1,0 +1,355 @@
+{
+  "source": "community-animals",
+  "questions": [
+    {
+      "question_text": "世界上体型最大的动物是？",
+      "options": ["大象", "蓝鲸", "长颈鹿", "鲨鱼"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "猫头鹰可以在夜间捕食，是因为什么？",
+      "options": ["发出声波", "视力极好", "听力超群", "体温感应"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "企鹅为什么不会飞？",
+      "options": ["翅膀太小", "身体太重", "为游泳进化出特殊骨骼", "缺少羽毛"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "蝎子的尾部螯针是用来做什么的？",
+      "options": ["感知方向", "防御和捕猎", "呼吸", "交配"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "变色龙改变皮肤颜色的主要用途是？",
+      "options": ["伪装", "表达情绪和温度调节", "吓唬捕食者", "吸引异性"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上跑得最快的陆地动物是？",
+      "options": ["狮子", "猎豹", "羚羊", "斑马"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "蜜蜂用什么方式向同伴传递花源位置？",
+      "options": ["发出声音", "跳舞", "激素分泌", "触碰触角"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "鲨鱼的骨骼主要由什么构成？",
+      "options": ["钙质骨骼", "软骨", "硬骨", "鳞片"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "袋鼠的幼崽出生后在哪里发育成长？",
+      "options": ["巢穴", "育儿袋", "树洞", "地下洞穴"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "下列哪种动物可以再生断掉的尾巴？",
+      "options": ["青蛙", "蜥蜴", "乌龟", "蛇"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "章鱼有多少条触手？",
+      "options": ["6条", "8条", "10条", "12条"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "北极熊的皮肤是什么颜色？",
+      "options": ["白色", "黑色", "粉色", "灰色"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "陆地上最大的动物是？",
+      "options": ["犀牛", "非洲象", "河马", "长颈鹿"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "鲸鱼属于哪一类动物？",
+      "options": ["鱼类", "哺乳类", "爬行类", "两栖类"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "能飞得最高的鸟是？",
+      "options": ["天鹅", "秃鹫", "信天翁", "斑头雁"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "鸭嘴兽是哪种动物？",
+      "options": ["鸟类", "哺乳类", "爬行类", "两栖类"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "蜜蜂蜇人后会怎样？",
+      "options": ["继续飞走", "死亡", "失去翅膀", "再次蜇人"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "乌龟的壳属于什么结构？",
+      "options": ["外骨骼", "肋骨变形", "鳞片", "角质层"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "蜘蛛属于哪一类动物？",
+      "options": ["昆虫", "蛛形纲", "甲壳纲", "多足纲"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "海马是由谁负责孵化后代的？",
+      "options": ["雌性", "雄性", "父母轮流", "海马不需要孵化"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上牙齿最多的动物是？",
+      "options": ["鳄鱼", "蜗牛", "鲨鱼", "大象"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "蛇的舌头为什么不断伸出来？",
+      "options": ["吓唬猎物", "收集空气中气味粒子", "散热", "发出声音"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "沙漠里骆驼的驼峰主要储存什么？",
+      "options": ["水", "脂肪", "食物", "空气"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "萤火虫发光的主要目的是？",
+      "options": ["照明", "求偶交流", "吓退捕食者", "寻找食物"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "哪种鸟不会飞但跑得很快？",
+      "options": ["天鹅", "鸵鸟", "孔雀", "火鸡"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "大熊猫的主要食物是什么？",
+      "options": ["肉类", "竹子", "水果", "草"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "蟑螂的寿命约为多久？",
+      "options": ["几周", "几个月到一年", "几年", "十几年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "企鹅主要生活在什么地区？",
+      "options": ["北极", "南极", "赤道", "温带"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "考拉的主要食物是？",
+      "options": ["尤加利叶", "竹子", "水果", "昆虫"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "河马的汗液为什么是红色的？",
+      "options": ["流血了", "天然防晒抗炎物质", "吃了红色食物", "色素沉淀"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "蝙蝠用什么方式导航捕食？",
+      "options": ["视觉", "超声波回声定位", "嗅觉", "红外线"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "啄木鸟不停啄树不会脑震荡是因为？",
+      "options": ["头骨厚", "有特殊缓冲结构", "动作慢", "戴了盔甲"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上最重的昆虫是？",
+      "options": ["独角仙", "大角金龟", "竹节虫", "热带巨天牛"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "为什么狗会摇尾巴？",
+      "options": ["打蚊子", "表达情绪", "保持平衡", "赶走苍蝇"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上最大的蜥蜴是？",
+      "options": ["科莫多龙", "鬣蜥", "巨蜥", "鳄鱼"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "海豚用哪种方式呼吸？",
+      "options": ["皮肤", "鳃", "肺", "外腮"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "雄狮的主要职责是？",
+      "options": ["捕猎", "保护领地", "照顾幼崽", "筑巢"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上最毒的蛇是？",
+      "options": ["眼镜王蛇", "内陆太攀蛇", "响尾蛇", "黑曼巴"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "蝴蝶的味觉器官长在哪里？",
+      "options": ["头部", "触角", "足部", "翅膀"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "鳄鱼的性别是由什么决定的？",
+      "options": ["基因", "孵化温度", "出生后环境", "食物"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上最大的鸟类是什么？",
+      "options": ["鸵鸟", "信天翁", "天鹅", "秃鹫"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "蚂蚁可以搬运比自身重多少倍的食物？",
+      "options": ["10倍", "50倍", "100倍", "500倍"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "金鱼的记忆真的只有7秒吗？",
+      "options": ["是真的", "假的，有数月记忆", "3秒", "一分钟"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "哺乳动物的特征不包括以下哪项？",
+      "options": ["哺乳", "体表被毛", "卵生", "恒温"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "猫从高处掉落时通常能安全落地，这个本领叫什么？",
+      "options": ["猫翻正反射", "飞猫", "猫舞", "弹跳反射"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "哪种动物被称为「沙漠之舟」？",
+      "options": ["马", "骆驼", "羚羊", "蛇"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "变色龙的眼睛有什么特点？",
+      "options": ["只能直视前方", "可以独立旋转", "看不到颜色", "夜间视力差"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "只有雌性蚊子会叮人吸血。",
+      "options": ["雄蚊子", "雌蚊子", "都吸血", "都不吸血"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "大象的鼻子大约有多少块肌肉？",
+      "options": ["100块", "1000块", "40000块", "10块"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "鹦鹉学舌是因为它们有发达的什么器官？",
+      "options": ["鸣管", "舌头", "大脑", "耳朵"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    }
+  ]
+}
