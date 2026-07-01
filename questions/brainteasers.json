@@ -1,0 +1,355 @@
+{
+  "source": "community-brainteasers",
+  "questions": [
+    {
+      "question_text": "什么东西越洗越脏？",
+      "question_type": "single_choice",
+      "options": ["衣服", "水", "毛巾", "手"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "什么东西你越给它它越渴？",
+      "question_type": "single_choice",
+      "options": ["沙漠", "炉火", "海绵", "植物"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "什么球不能踢？",
+      "question_type": "single_choice",
+      "options": ["眼球", "气球", "羽毛球", "冰球"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "一个人从十层楼跳下来没受伤，为什么？",
+      "question_type": "single_choice",
+      "options": ["下面是海绵垫", "他跳的是楼梯", "他戴了降落伞", "他是超人"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "什么东西没吃时是绿色的，吃的时候是红色的，吐出来是黑色的？",
+      "question_type": "single_choice",
+      "options": ["辣椒", "西瓜", "葡萄", "苹果"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "什么书不能看？",
+      "question_type": "single_choice",
+      "options": ["盲文书", "天书", "户口簿", "说明书"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "什么东西越分越少？",
+      "question_type": "single_choice",
+      "options": ["钱", "蛋糕", "时间", "知识"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "有一种动物，早上四条腿，中午两条腿，晚上三条腿，是什么？",
+      "question_type": "single_choice",
+      "options": ["猴子", "人", "袋鼠", "狗"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "什么人生病从来不看病？",
+      "question_type": "single_choice",
+      "options": ["盲人", "精神病患者", "绝症病人", "已故之人"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "什么东西用的时候是黑的，放的时候是白的？",
+      "question_type": "single_choice",
+      "options": ["黑板", "粉笔", "墨镜", "头发"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "什么牛不会吃草？",
+      "question_type": "single_choice",
+      "options": ["蜗牛", "奶牛", "犀牛", "水牛"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "两个人同时掉进水里，为什么只死了一个？",
+      "question_type": "single_choice",
+      "options": ["另一个会游泳", "一个是死人", "水太浅", "另一个被救了"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "什么东西借了不用还？",
+      "question_type": "single_choice",
+      "options": ["钱", "力", "借条", "书"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "小红和小明是双胞胎，但不是同一天生的，为什么？",
+      "question_type": "single_choice",
+      "options": ["一个白天生一个晚上生", "跨年生的", "整容了", "不是亲生的"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "什么人的工作整天只盯着别人的脸看？",
+      "question_type": "single_choice",
+      "options": ["画家", "医生", "理发师", "摄影师"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "抓什么不用手？",
+      "question_type": "single_choice",
+      "options": ["痒", "鱼", "小偷", "沙子"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "什么鱼最老实？",
+      "question_type": "single_choice",
+      "options": ["鲫鱼", "木鱼", "鲤鱼", "金鱼"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "什么门永远关不上？",
+      "question_type": "single_choice",
+      "options": ["心门", "闸门", "球门", "天门"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "什么牙不会痛？",
+      "question_type": "single_choice",
+      "options": ["假牙", "乳牙", "犬齿", "智齿"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "什么东西人人都能分到，但永远不够用？",
+      "question_type": "single_choice",
+      "options": ["钱", "时间", "水", "空气"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "什么水不能喝？",
+      "question_type": "single_choice",
+      "options": ["矿泉水", "薪水", "蒸馏水", "海水"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "一个人掉进大海里，为什么头发没有湿？",
+      "question_type": "single_choice",
+      "options": ["戴了泳帽", "他是光头", "海里有浪", "穿雨衣了"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "什么瓜不能吃？",
+      "question_type": "single_choice",
+      "options": ["苦瓜", "傻瓜", "冬瓜", "黄瓜"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "有一座桥限重5吨，一辆4.9吨的车过桥什么事也没有，为什么？",
+      "question_type": "single_choice",
+      "options": ["司机技术好", "车已经在桥上了", "空车过桥", "桥很结实"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "什么球不会弹起来？",
+      "question_type": "single_choice",
+      "options": ["铅球", "篮球", "乒乓球", "网球"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "什么布剪不断？",
+      "question_type": "single_choice",
+      "options": ["纱布", "瀑布", "棉布", "防水布"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "什么山不会塌？",
+      "question_type": "single_choice",
+      "options": ["雪山", "火山", "人山人海", "假山"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "什么东西没脚却能走遍天下？",
+      "question_type": "single_choice",
+      "options": ["风", "时间", "钞票", "声音"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "小明的爸爸有三个儿子，大儿子叫大毛，二儿子叫二毛，三儿子叫什么？",
+      "question_type": "single_choice",
+      "options": ["三毛", "小明", "小毛", "四毛"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "什么字人人都会念错？",
+      "question_type": "single_choice",
+      "options": ["错字", "难字", "繁体字", "生僻字"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "一个人在沙滩上走，回头却看不到脚印，为什么？",
+      "question_type": "single_choice",
+      "options": ["涨潮了", "倒着走", "退潮了", "飞过去的"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "什么花看不见摸不着？",
+      "question_type": "single_choice",
+      "options": ["烟花", "雪花", "火花", "泪花"],
+      "answer": "D",
+      "is_active": true
+    },
+    {
+      "question_text": "一只鸡和一只鹅同时放进冰箱里，为什么鸡冻死了鹅还活着？",
+      "question_type": "single_choice",
+      "options": ["鸡怕冷", "鹅羽毛厚", "那是企鹅", "鸡是冻鸡"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "什么东西买回来是黑色的，用着用着变白色？",
+      "question_type": "single_choice",
+      "options": ["铅笔", "碳", "煤炭", "鞋子"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "什么桶不能装水？",
+      "question_type": "single_choice",
+      "options": ["木桶", "铁桶", "饭桶", "塑料桶"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "什么药不能乱吃？",
+      "question_type": "single_choice",
+      "options": ["中药", "西药", "后悔药", "感冒药"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "什么贼不偷东西？",
+      "question_type": "single_choice",
+      "options": ["家贼", "飞贼", "卖国贼", "老贼"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "什么台阶永远上不去？",
+      "question_type": "single_choice",
+      "options": ["台阶太高", "看不见的台阶", "电梯", "天梯"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "一个人连说了三个小时的话，为什么他一句话也没说？",
+      "question_type": "single_choice",
+      "options": ["他在唱歌", "他在打电话", "他在读剧本", "他说的外语"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "什么东西你越用力它越不出来？",
+      "question_type": "single_choice",
+      "options": ["螺丝", "胶水", "拔河绳", "呼吸"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "什么骨头最硬？",
+      "question_type": "single_choice",
+      "options": ["头盖骨", "腿骨", "胸骨", "龙骨"],
+      "answer": "D",
+      "is_active": true
+    },
+    {
+      "question_text": "什么房子不能住人？",
+      "question_type": "single_choice",
+      "options": ["破房子", "镜子里的房子", "蚁巢", "地下室"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "早餐不能吃什么？",
+      "question_type": "single_choice",
+      "options": ["油腻的", "凉的", "午餐和晚餐", "甜的"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "什么东西你越等它它越不来？",
+      "question_type": "single_choice",
+      "options": ["幸福", "兔子", "末班车", "快递"],
+      "answer": "D",
+      "is_active": true
+    },
+    {
+      "question_text": "什么纸可以包住火？",
+      "question_type": "single_choice",
+      "options": ["锡纸", "防火纸", "烧纸", "电灯泡"],
+      "answer": "D",
+      "is_active": true
+    },
+    {
+      "question_text": "什么人从不去医院却说自己有病？",
+      "question_type": "single_choice",
+      "options": ["丧尸", "大夫", "心理医生", "说梦话的人"],
+      "answer": "D",
+      "is_active": true
+    },
+    {
+      "question_text": "什么蛋不吃？",
+      "question_type": "single_choice",
+      "options": ["坏蛋", "鸭蛋", "鸡蛋", "鹅蛋"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "什么字永远念不对？",
+      "question_type": "single_choice",
+      "options": ["错别字", "囧字", "永远不会的字", "名字"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "火车从北京开到上海需要6小时，开3小时后到了哪里？",
+      "question_type": "single_choice",
+      "options": ["南京", "济南", "铁轨上", "天津"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "什么头没有大脑？",
+      "question_type": "single_choice",
+      "options": ["石头", "蛇头", "斧头", "笔头"],
+      "answer": "C",
+      "is_active": true
+    }
+  ]
+}
